@@ -1,6 +1,6 @@
 # AI Degradation Test Suite
 
-An archives of questions for detecting LLM performance decline in long threads, where initial reasoning regresses into errors like hardcoding outcomes in prompts, context loss, or reliance on outdated thread details.
+An archive of questions to detect LLM performance decline in long threads, where initial reasoning regresses into errors like hardcoding outcomes in prompts, context loss, or reliance on outdated thread details.
 
 ## Overview
 
